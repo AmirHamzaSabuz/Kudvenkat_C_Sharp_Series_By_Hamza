@@ -3,27 +3,29 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32811.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_001_Introduction_To_C_Sharp", "Part_001_Introduction_To_C_Sharp\Part_001_Introduction_To_C_Sharp.csproj", "{6E2E665C-2308-412F-B302-B144A82C34C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_001_Introduction_To_C_Sharp", "Part_001_Introduction_To_C_Sharp\Part_001_Introduction_To_C_Sharp.csproj", "{6E2E665C-2308-412F-B302-B144A82C34C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_001_MY_Explanation", "Part_001_MY_Explanation\Part_001_MY_Explanation.csproj", "{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_001_MY_Explanation", "Part_001_MY_Explanation\Part_001_MY_Explanation.csproj", "{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_002_Reading_And_Writing", "Part_002_Reading_And_Writing\Part_002_Reading_And_Writing.csproj", "{3DB0E531-F92D-4A77-9C27-516762B953C9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_002_Reading_And_Writing", "Part_002_Reading_And_Writing\Part_002_Reading_And_Writing.csproj", "{3DB0E531-F92D-4A77-9C27-516762B953C9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_003_Built _In_Types", "Part_003_Built _In_Types\Part_003_Built _In_Types.csproj", "{B630C72E-9288-48C7-8862-6EB3778C7434}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_003_Built _In_Types", "Part_003_Built _In_Types\Part_003_Built _In_Types.csproj", "{B630C72E-9288-48C7-8862-6EB3778C7434}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_004_String_Type", "Part_004_String_Type\Part_004_String_Type.csproj", "{2F7AD11F-2E5B-4DD5-B70E-6AA0F7A0E40D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_004_String_Type", "Part_004_String_Type\Part_004_String_Type.csproj", "{2F7AD11F-2E5B-4DD5-B70E-6AA0F7A0E40D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_005_Common_Operators", "Part_005_Common_Operators\Part_005_Common_Operators.csproj", "{79E6D414-CC70-46E8-9CCD-CF7DB5605ADB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_005_Common_Operators", "Part_005_Common_Operators\Part_005_Common_Operators.csproj", "{79E6D414-CC70-46E8-9CCD-CF7DB5605ADB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_006_Nullable_Types", "Part_006_Nullable_Types\Part_006_Nullable_Types.csproj", "{30AF9167-9336-4E47-98B5-6F5F6A92B423}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_006_Nullable_Types", "Part_006_Nullable_Types\Part_006_Nullable_Types.csproj", "{30AF9167-9336-4E47-98B5-6F5F6A92B423}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_007_Datatypes_Conversion", "Part_007_Datatypes_Conversion\Part_007_Datatypes_Conversion.csproj", "{744DF658-C02B-4223-88A0-8AC2E9F4DABA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_007_Datatypes_Conversion", "Part_007_Datatypes_Conversion\Part_007_Datatypes_Conversion.csproj", "{744DF658-C02B-4223-88A0-8AC2E9F4DABA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_008_Arrays", "Part_008_Arrays\Part_008_Arrays.csproj", "{9ADEA6D7-C356-4865-B162-8893C1B073F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_008_Arrays", "Part_008_Arrays\Part_008_Arrays.csproj", "{9ADEA6D7-C356-4865-B162-8893C1B073F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_009_ Comments", "Part_009_ Comments\Part_009_ Comments.csproj", "{219C1FB8-D6F8-494D-85CC-BF28E3F72289}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_009_ Comments", "Part_009_ Comments\Part_009_ Comments.csproj", "{219C1FB8-D6F8-494D-85CC-BF28E3F72289}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_010_If_Statement", "Part_010_If_Statement\Part_010_If_Statement.csproj", "{1CFEE402-E2B5-4114-A708-F2C9B4C8337C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_010_If_Statement", "Part_010_If_Statement\Part_010_If_Statement.csproj", "{1CFEE402-E2B5-4114-A708-F2C9B4C8337C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_011_Switch_Statement", "Part_011_Switch_Statement\Part_011_Switch_Statement.csproj", "{37BE23DE-A8E9-4722-B82C-3071732F2CD8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{1CFEE402-E2B5-4114-A708-F2C9B4C8337C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1CFEE402-E2B5-4114-A708-F2C9B4C8337C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1CFEE402-E2B5-4114-A708-F2C9B4C8337C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
