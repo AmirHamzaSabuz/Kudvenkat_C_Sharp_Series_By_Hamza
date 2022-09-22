@@ -27,6 +27,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_010_If_Statement", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_011_Switch_Statement", "Part_011_Switch_Statement\Part_011_Switch_Statement.csproj", "{37BE23DE-A8E9-4722-B82C-3071732F2CD8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_012_ Switch_Statement_Part2", "Part_012_ Switch_Statement_Part2\Part_012_ Switch_Statement_Part2.csproj", "{CA5C6029-B405-49FC-AFBC-9B986F243C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -81,6 +83,10 @@ Global
 		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{37BE23DE-A8E9-4722-B82C-3071732F2CD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA5C6029-B405-49FC-AFBC-9B986F243C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA5C6029-B405-49FC-AFBC-9B986F243C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA5C6029-B405-49FC-AFBC-9B986F243C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA5C6029-B405-49FC-AFBC-9B986F243C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
