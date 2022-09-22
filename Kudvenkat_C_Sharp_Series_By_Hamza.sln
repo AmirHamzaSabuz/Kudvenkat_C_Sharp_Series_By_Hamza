@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_001_Introduction_To_C_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_001_MY_Explanation", "Part_001_MY_Explanation\Part_001_MY_Explanation.csproj", "{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_002_Reading_And_Writing", "Part_002_Reading_And_Writing\Part_002_Reading_And_Writing.csproj", "{3DB0E531-F92D-4A77-9C27-516762B953C9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32117F4D-2492-4C0D-9AC0-EED1AC9B4532}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
