@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_001_MY_Explanation", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_002_Reading_And_Writing", "Part_002_Reading_And_Writing\Part_002_Reading_And_Writing.csproj", "{3DB0E531-F92D-4A77-9C27-516762B953C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_003_Built _In_Types", "Part_003_Built _In_Types\Part_003_Built _In_Types.csproj", "{B630C72E-9288-48C7-8862-6EB3778C7434}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3DB0E531-F92D-4A77-9C27-516762B953C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B630C72E-9288-48C7-8862-6EB3778C7434}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B630C72E-9288-48C7-8862-6EB3778C7434}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B630C72E-9288-48C7-8862-6EB3778C7434}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B630C72E-9288-48C7-8862-6EB3778C7434}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
