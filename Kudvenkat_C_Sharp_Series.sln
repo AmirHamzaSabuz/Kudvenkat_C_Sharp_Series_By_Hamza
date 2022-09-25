@@ -55,9 +55,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_022_Method_Hiding", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_023_Polymorphism", "Part_023_Polymorphism\Part_023_Polymorphism.csproj", "{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_024_Method_Overriding_And_Hiding", "Part_024_Method_Overriding_And_Hiding\Part_024_Method_Overriding_And_Hiding.csproj", "{68DA7B39-111C-40EF-85A9-85936517BF30}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_024_Method_Overriding_And_Hiding", "Part_024_Method_Overriding_And_Hiding\Part_024_Method_Overriding_And_Hiding.csproj", "{68DA7B39-111C-40EF-85A9-85936517BF30}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_025_Method_Overloading", "Part_025_Method_Overloading\Part_025_Method_Overloading.csproj", "{3615ADDB-1F27-472B-A056-23B65186CE82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_025_Method_Overloading", "Part_025_Method_Overloading\Part_025_Method_Overloading.csproj", "{3615ADDB-1F27-472B-A056-23B65186CE82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_026_Why_Properties_Get_Set_Encapsulation_1", "Part_026_Why_Properties_Get_Set_Encapsulation_1\Part_026_Why_Properties_Get_Set_Encapsulation_1.csproj", "{CF91338F-90BE-4CE8-9A2C-A74EFFA4D6D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -177,6 +179,10 @@ Global
 		{3615ADDB-1F27-472B-A056-23B65186CE82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3615ADDB-1F27-472B-A056-23B65186CE82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3615ADDB-1F27-472B-A056-23B65186CE82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF91338F-90BE-4CE8-9A2C-A74EFFA4D6D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF91338F-90BE-4CE8-9A2C-A74EFFA4D6D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF91338F-90BE-4CE8-9A2C-A74EFFA4D6D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF91338F-90BE-4CE8-9A2C-A74EFFA4D6D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
