@@ -53,7 +53,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_021_Inheritance", "Par
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_022_Method_Hiding", "Part_022_Method_Hiding\Part_022_Method_Hiding.csproj", "{B55D0F30-D504-4ED9-979E-0C31E3EF54A0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_023_Polymorphism", "Part_023_Polymorphism\Part_023_Polymorphism.csproj", "{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_023_Polymorphism", "Part_023_Polymorphism\Part_023_Polymorphism.csproj", "{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_024_Method_Overriding_And_Hiding", "Part_024_Method_Overriding_And_Hiding\Part_024_Method_Overriding_And_Hiding.csproj", "{68DA7B39-111C-40EF-85A9-85936517BF30}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +167,10 @@ Global
 		{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BD8D498-1396-4F16-B341-6EF8EBCC0FCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68DA7B39-111C-40EF-85A9-85936517BF30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68DA7B39-111C-40EF-85A9-85936517BF30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68DA7B39-111C-40EF-85A9-85936517BF30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68DA7B39-111C-40EF-85A9-85936517BF30}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
