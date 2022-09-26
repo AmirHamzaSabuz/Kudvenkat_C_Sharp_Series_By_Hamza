@@ -67,7 +67,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_028_Structs", "Part_02
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_029_Difference_Between_Classes_And_Structs", "Part_029_Difference_Between_Classes_And_Structs\Part_029_Difference_Between_Classes_And_Structs.csproj", "{0DE5C305-E005-4082-A07D-BEB0C2C78B0B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_030_Interfaces", "Part_030_Interfaces\Part_030_Interfaces.csproj", "{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_030_Interfaces", "Part_030_Interfaces\Part_030_Interfaces.csproj", "{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_031_Explicit_Interfaces_Implementation", "Part_031_Explicit_Interfaces_Implementation\Part_031_Explicit_Interfaces_Implementation.csproj", "{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -207,6 +209,10 @@ Global
 		{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
