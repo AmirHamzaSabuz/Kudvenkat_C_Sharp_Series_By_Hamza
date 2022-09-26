@@ -69,11 +69,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_029_Difference_Between
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_030_Interfaces", "Part_030_Interfaces\Part_030_Interfaces.csproj", "{D6F1ED4E-7661-4B2C-8AD7-045E2F6816B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_031_Explicit_Interfaces_Implementation", "Part_031_Explicit_Interfaces_Implementation\Part_031_Explicit_Interfaces_Implementation.csproj", "{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_031_Explicit_Interfaces_Implementation", "Part_031_Explicit_Interfaces_Implementation\Part_031_Explicit_Interfaces_Implementation.csproj", "{C1458AB3-A1B6-453A-9B4C-D880E2D63BD4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_032_Abstract_Classes", "Part_032_Abstract_Classes\Part_032_Abstract_Classes.csproj", "{516CBFFE-5A42-492F-80B9-BA715A03B052}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_032_Abstract_Classes", "Part_032_Abstract_Classes\Part_032_Abstract_Classes.csproj", "{516CBFFE-5A42-492F-80B9-BA715A03B052}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_033_Abstract_Classes_And_Interfaces", "Part_033_Abstract_Classes_And_Interfaces\Part_033_Abstract_Classes_And_Interfaces.csproj", "{11E399D9-C555-42F8-8EF7-00A83FAB040D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_033_Abstract_Classes_And_Interfaces", "Part_033_Abstract_Classes_And_Interfaces\Part_033_Abstract_Classes_And_Interfaces.csproj", "{11E399D9-C555-42F8-8EF7-00A83FAB040D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_034_Problems_Of_Multiple_Class_Inheritance", "Part_034_Problems_Of_Multiple_Class_Inheritance\Part_034_Problems_Of_Multiple_Class_Inheritance.csproj", "{CAC7EEAE-1CB0-4F51-A1A7-A13E4BDB5CBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_035_Multiple_Class_Inheritance_Using_Interfaces", "Part_035_Multiple_Class_Inheritance_Using_Interfaces\Part_035_Multiple_Class_Inheritance_Using_Interfaces.csproj", "{26A3076E-B283-4C01-A3BD-0E63B0C3D776}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -225,6 +229,14 @@ Global
 		{11E399D9-C555-42F8-8EF7-00A83FAB040D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{11E399D9-C555-42F8-8EF7-00A83FAB040D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{11E399D9-C555-42F8-8EF7-00A83FAB040D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CAC7EEAE-1CB0-4F51-A1A7-A13E4BDB5CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAC7EEAE-1CB0-4F51-A1A7-A13E4BDB5CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAC7EEAE-1CB0-4F51-A1A7-A13E4BDB5CBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAC7EEAE-1CB0-4F51-A1A7-A13E4BDB5CBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
