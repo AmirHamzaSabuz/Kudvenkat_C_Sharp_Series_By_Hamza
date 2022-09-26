@@ -79,6 +79,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_034_Problems_Of_Multip
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_035_Multiple_Class_Inheritance_Using_Interfaces", "Part_035_Multiple_Class_Inheritance_Using_Interfaces\Part_035_Multiple_Class_Inheritance_Using_Interfaces.csproj", "{26A3076E-B283-4C01-A3BD-0E63B0C3D776}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_036_Delegates", "Part_036_Delegates\Part_036_Delegates.csproj", "{307B3220-B9CD-41B8-A7E6-038B98748ADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -237,6 +239,10 @@ Global
 		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26A3076E-B283-4C01-A3BD-0E63B0C3D776}.Release|Any CPU.Build.0 = Release|Any CPU
+		{307B3220-B9CD-41B8-A7E6-038B98748ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{307B3220-B9CD-41B8-A7E6-038B98748ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{307B3220-B9CD-41B8-A7E6-038B98748ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{307B3220-B9CD-41B8-A7E6-038B98748ADC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
