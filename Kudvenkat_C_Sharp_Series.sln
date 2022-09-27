@@ -85,17 +85,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_037_Delegates_Usage", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_038_Delegates_Usage_Part_2", "Part_038_Delegates_Usage_Part_2\Part_038_Delegates_Usage_Part_2.csproj", "{8421BBF8-0BB8-49CA-8C48-EA71BADE9671}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_039_Multicast_Delegates_Approach1", "Part_039_Multicast_Delegates_Approach1\Part_039_Multicast_Delegates_Approach1.csproj", "{AF68EC35-1E68-4220-9004-155F0171B857}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_039_Multicast_Delegates_Approach1", "Part_039_Multicast_Delegates_Approach1\Part_039_Multicast_Delegates_Approach1.csproj", "{AF68EC35-1E68-4220-9004-155F0171B857}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_039_Multicast_Delegates_Approach2", "Part_039_Multicast_Delegates_Approach2\Part_039_Multicast_Delegates_Approach2.csproj", "{68C9A18B-DDD4-40D5-94CC-2D7220E56A70}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_039_Multicast_Delegates_Approach2", "Part_039_Multicast_Delegates_Approach2\Part_039_Multicast_Delegates_Approach2.csproj", "{68C9A18B-DDD4-40D5-94CC-2D7220E56A70}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_039_Multicast_Delegates_With_Int_Return_Type", "Part_039_Multicast_Delegates_With_Int_Return_Type\Part_039_Multicast_Delegates_With_Int_Return_Type.csproj", "{B710A095-B0C9-4787-8E26-479883753786}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_039_Multicast_Delegates_With_Int_Return_Type", "Part_039_Multicast_Delegates_With_Int_Return_Type\Part_039_Multicast_Delegates_With_Int_Return_Type.csproj", "{B710A095-B0C9-4787-8E26-479883753786}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_039_Multicast_Delegates_Integer_Output_Parameter", "Part_039_Multicast_Delegates_Integer_Output_Parameter\Part_039_Multicast_Delegates_Integer_Output_Parameter.csproj", "{B2B80004-C46A-4C8C-82CC-5146B82195C8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_039_Multicast_Delegates_Integer_Output_Parameter", "Part_039_Multicast_Delegates_Integer_Output_Parameter\Part_039_Multicast_Delegates_Integer_Output_Parameter.csproj", "{B2B80004-C46A-4C8C-82CC-5146B82195C8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_040_Exception_Handling", "Part_040_Exception_Handling\Part_040_Exception_Handling.csproj", "{1045A876-1337-4B39-9F82-05B984296E2F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_040_Exception_Handling", "Part_040_Exception_Handling\Part_040_Exception_Handling.csproj", "{1045A876-1337-4B39-9F82-05B984296E2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_041_Inner_Exceptions", "Part_041_Inner_Exceptions\Part_041_Inner_Exceptions.csproj", "{71F31D1D-BF21-4117-8CB0-3452D42B3FF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_041_Inner_Exceptions", "Part_041_Inner_Exceptions\Part_041_Inner_Exceptions.csproj", "{71F31D1D-BF21-4117-8CB0-3452D42B3FF6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_042_Custom_Exceptions", "Part_042_Custom_Exceptions\Part_042_Custom_Exceptions.csproj", "{28754C09-6758-43AE-B4C9-7C67F6DFE51B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_043_Exception_Handling_Abuse", "Part_043_Exception_Handling_Abuse\Part_043_Exception_Handling_Abuse.csproj", "{00314C85-4074-45D4-8D1D-669A3C833789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_044_Preventing_Exception_Handling_Abuse", "Part_044_Preventing_Exception_Handling_Abuse\Part_044_Preventing_Exception_Handling_Abuse.csproj", "{7A8C8599-1790-412C-BB0B-49FC7A739BEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -291,6 +297,18 @@ Global
 		{71F31D1D-BF21-4117-8CB0-3452D42B3FF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{71F31D1D-BF21-4117-8CB0-3452D42B3FF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{71F31D1D-BF21-4117-8CB0-3452D42B3FF6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28754C09-6758-43AE-B4C9-7C67F6DFE51B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28754C09-6758-43AE-B4C9-7C67F6DFE51B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28754C09-6758-43AE-B4C9-7C67F6DFE51B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28754C09-6758-43AE-B4C9-7C67F6DFE51B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00314C85-4074-45D4-8D1D-669A3C833789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00314C85-4074-45D4-8D1D-669A3C833789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00314C85-4074-45D4-8D1D-669A3C833789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00314C85-4074-45D4-8D1D-669A3C833789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
