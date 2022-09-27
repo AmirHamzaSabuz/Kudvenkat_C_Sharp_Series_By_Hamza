@@ -99,9 +99,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_041_Inner_Exceptions",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_042_Custom_Exceptions", "Part_042_Custom_Exceptions\Part_042_Custom_Exceptions.csproj", "{28754C09-6758-43AE-B4C9-7C67F6DFE51B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_043_Exception_Handling_Abuse", "Part_043_Exception_Handling_Abuse\Part_043_Exception_Handling_Abuse.csproj", "{00314C85-4074-45D4-8D1D-669A3C833789}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_043_Exception_Handling_Abuse", "Part_043_Exception_Handling_Abuse\Part_043_Exception_Handling_Abuse.csproj", "{00314C85-4074-45D4-8D1D-669A3C833789}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_044_Preventing_Exception_Handling_Abuse", "Part_044_Preventing_Exception_Handling_Abuse\Part_044_Preventing_Exception_Handling_Abuse.csproj", "{7A8C8599-1790-412C-BB0B-49FC7A739BEE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_044_Preventing_Exception_Handling_Abuse", "Part_044_Preventing_Exception_Handling_Abuse\Part_044_Preventing_Exception_Handling_Abuse.csproj", "{7A8C8599-1790-412C-BB0B-49FC7A739BEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_045_Why_Enums", "Part_045_Why_Enums\Part_045_Why_Enums.csproj", "{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -309,6 +311,10 @@ Global
 		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7A8C8599-1790-412C-BB0B-49FC7A739BEE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
