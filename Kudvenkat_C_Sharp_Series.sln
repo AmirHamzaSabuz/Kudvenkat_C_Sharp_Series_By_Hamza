@@ -111,6 +111,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_047_Enums_Details", "P
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_048_Types_ Type_Members_Regions", "Part_048_Types_ Type_Members_Regions\Part_048_Types_ Type_Members_Regions.csproj", "{E77C3519-F4BB-49C3-8955-3409AA1B7424}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_049_Access_Modifiers", "Part_049_Access_Modifiers\Part_049_Access_Modifiers.csproj", "{F9A7426D-384B-4576-909D-F794D6F569F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -333,6 +335,10 @@ Global
 		{E77C3519-F4BB-49C3-8955-3409AA1B7424}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E77C3519-F4BB-49C3-8955-3409AA1B7424}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E77C3519-F4BB-49C3-8955-3409AA1B7424}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9A7426D-384B-4576-909D-F794D6F569F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9A7426D-384B-4576-909D-F794D6F569F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9A7426D-384B-4576-909D-F794D6F569F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9A7426D-384B-4576-909D-F794D6F569F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
