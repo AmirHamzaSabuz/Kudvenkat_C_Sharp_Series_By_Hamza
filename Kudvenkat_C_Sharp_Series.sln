@@ -103,9 +103,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_043_Exception_Handling
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_044_Preventing_Exception_Handling_Abuse", "Part_044_Preventing_Exception_Handling_Abuse\Part_044_Preventing_Exception_Handling_Abuse.csproj", "{7A8C8599-1790-412C-BB0B-49FC7A739BEE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_045_Why_Enums", "Part_045_Why_Enums\Part_045_Why_Enums.csproj", "{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_045_Why_Enums", "Part_045_Why_Enums\Part_045_Why_Enums.csproj", "{B1EEAC07-858B-4D19-AA64-E67AE5E2CCB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_046_Enums_Example", "Part_046_Enums_Example\Part_046_Enums_Example.csproj", "{CF71CC8A-1EE1-47D8-AECF-FF31E0012610}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_046_Enums_Example", "Part_046_Enums_Example\Part_046_Enums_Example.csproj", "{CF71CC8A-1EE1-47D8-AECF-FF31E0012610}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_047_Enums_Details", "Part_047_Enums_Details\Part_047_Enums_Details.csproj", "{E66E6123-44C8-42C8-B52D-D5251C392986}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +323,10 @@ Global
 		{CF71CC8A-1EE1-47D8-AECF-FF31E0012610}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CF71CC8A-1EE1-47D8-AECF-FF31E0012610}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CF71CC8A-1EE1-47D8-AECF-FF31E0012610}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E66E6123-44C8-42C8-B52D-D5251C392986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E66E6123-44C8-42C8-B52D-D5251C392986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E66E6123-44C8-42C8-B52D-D5251C392986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E66E6123-44C8-42C8-B52D-D5251C392986}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
