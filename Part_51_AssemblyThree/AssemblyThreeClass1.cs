@@ -1,4 +1,4 @@
-﻿namespace Part_51_AssemblyThree
+﻿namespace Part_051_AssemblyThree
 {
     class AssemblyThreeClass1 // By default AssemblyThreeClass1 is internal
     {

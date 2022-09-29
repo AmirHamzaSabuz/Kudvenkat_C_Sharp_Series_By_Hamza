@@ -125,11 +125,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051Access_Modifiers_Fo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_AssemblyOne", "Part_051_AssemblyOne\Part_051_AssemblyOne.csproj", "{FA1EAC9F-D24A-4C85-B66B-AECFCE598B6D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_51_AssemblyTwo", "Part_51_AssemblyTwo\Part_51_AssemblyTwo.csproj", "{BE3E807F-AB76-4EB6-BD0E-84D5C14C0DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_AssemblyTwo", "Part_51_AssemblyTwo\Part_051_AssemblyTwo.csproj", "{BE3E807F-AB76-4EB6-BD0E-84D5C14C0DDA}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_51_AssemblyThree", "Part_51_AssemblyThree\Part_51_AssemblyThree.csproj", "{1DE26A89-D9DD-4C52-9AC9-6B7CEDE452FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_AssemblyThree", "Part_51_AssemblyThree\Part_051_AssemblyThree.csproj", "{1DE26A89-D9DD-4C52-9AC9-6B7CEDE452FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_052_Attributes", "Part_052_Attributes\Part_052_Attributes.csproj", "{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_052_Attributes", "Part_052_Attributes\Part_052_Attributes.csproj", "{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_053_Reflection", "Part_053_Reflection\Part_053_Reflection.csproj", "{B220B312-E682-49D7-9C88-FEB5B41087FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -393,6 +395,10 @@ Global
 		{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

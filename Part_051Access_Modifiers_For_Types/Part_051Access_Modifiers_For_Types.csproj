@@ -9,8 +9,8 @@
 
   <ItemGroup>
     <ProjectReference Include="..\Part_051_AssemblyOne\Part_051_AssemblyOne.csproj" />
-    <ProjectReference Include="..\Part_51_AssemblyThree\Part_51_AssemblyThree.csproj" />
-    <ProjectReference Include="..\Part_51_AssemblyTwo\Part_51_AssemblyTwo.csproj" />
+    <ProjectReference Include="..\Part_51_AssemblyThree\Part_051_AssemblyThree.csproj" />
+    <ProjectReference Include="..\Part_51_AssemblyTwo\Part_051_AssemblyTwo.csproj" />
   </ItemGroup>
 
 </Project>
