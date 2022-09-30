@@ -133,7 +133,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_052_Attributes", "Part
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_053_Reflection", "Part_053_Reflection\Part_053_Reflection.csproj", "{B220B312-E682-49D7-9C88-FEB5B41087FE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_054_Reflection_WinForm_Example", "Part_054_Reflection_WinForm_Example\Part_054_Reflection_WinForm_Example.csproj", "{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_054_Reflection_WinForm_Example", "Part_054_Reflection_WinForm_Example\Part_054_Reflection_WinForm_Example.csproj", "{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_055_Late_Binding_Using_Reflection", "Part_055_Late_Binding_Using_Reflection\Part_055_Late_Binding_Using_Reflection.csproj", "{4DC958F1-D4FC-4EA7-9B28-52B8B17BC741}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -405,6 +407,10 @@ Global
 		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DC958F1-D4FC-4EA7-9B28-52B8B17BC741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DC958F1-D4FC-4EA7-9B28-52B8B17BC741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DC958F1-D4FC-4EA7-9B28-52B8B17BC741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DC958F1-D4FC-4EA7-9B28-52B8B17BC741}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
