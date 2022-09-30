@@ -131,7 +131,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_AssemblyThree", "P
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_052_Attributes", "Part_052_Attributes\Part_052_Attributes.csproj", "{60B9EFD7-D1F7-491C-A16F-5A35C1D7D685}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_053_Reflection", "Part_053_Reflection\Part_053_Reflection.csproj", "{B220B312-E682-49D7-9C88-FEB5B41087FE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_053_Reflection", "Part_053_Reflection\Part_053_Reflection.csproj", "{B220B312-E682-49D7-9C88-FEB5B41087FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_054_Reflection_WinForm_Example", "Part_054_Reflection_WinForm_Example\Part_054_Reflection_WinForm_Example.csproj", "{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +401,10 @@ Global
 		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B220B312-E682-49D7-9C88-FEB5B41087FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4EDBC9F-B180-44CD-B53C-9362FC8793C4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
