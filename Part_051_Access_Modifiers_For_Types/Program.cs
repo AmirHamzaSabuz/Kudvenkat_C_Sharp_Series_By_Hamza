@@ -1,4 +1,4 @@
-﻿using Part_051_AssemblyOne;
+﻿using Part_051_Assembly_One;
 
 AssemblyOneClass1 assemblyOneClass1 = new AssemblyOneClass1();
 assemblyOneClass1.Print();

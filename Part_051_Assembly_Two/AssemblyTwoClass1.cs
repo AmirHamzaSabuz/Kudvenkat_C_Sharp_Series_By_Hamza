@@ -1,4 +1,4 @@
-﻿namespace Part_051_AssemblyTwo
+﻿namespace Part_051_Assembly_Two
 {
     internal class AssemblyTwoClass1
     {

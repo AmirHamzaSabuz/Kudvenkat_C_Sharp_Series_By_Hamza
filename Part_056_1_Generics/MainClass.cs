@@ -1,5 +1,5 @@
 ﻿using System;
-namespace Part_056_Generics
+namespace Part_056_1_Generics
 {
     public class MainClass
     {
@@ -59,7 +59,7 @@ namespace Part_056_Generics
     }
 
 
-    public class Cal2<T> 
+    public class Cal2<T>
     {
         public static bool AreEqual(T value1, T value2)
         {
