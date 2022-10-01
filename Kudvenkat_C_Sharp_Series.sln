@@ -131,15 +131,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_055_Late_Binding_Using
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_056_2_Why_Generics", "Part_056_2_Why_Generics\Part_056_2_Why_Generics.csproj", "{A0EFC5CA-26A2-4826-8FE0-90D2DB64537B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_051_Access_Modifiers_For_Types", "Part_051_Access_Modifiers_For_Types\Part_051_Access_Modifiers_For_Types.csproj", "{9A8E6C38-9ED6-491E-9073-F35BDE2E4FA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_Access_Modifiers_For_Types", "Part_051_Access_Modifiers_For_Types\Part_051_Access_Modifiers_For_Types.csproj", "{9A8E6C38-9ED6-491E-9073-F35BDE2E4FA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_051_Assembly_One", "Part_051_Assembly_One\Part_051_Assembly_One.csproj", "{DD87892D-48D1-4ED2-A079-7853876CCE93}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_Assembly_One", "Part_051_Assembly_One\Part_051_Assembly_One.csproj", "{DD87892D-48D1-4ED2-A079-7853876CCE93}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_051_Assembly_Two", "Part_051_Assembly_Two\Part_051_Assembly_Two.csproj", "{E1317D99-3016-4B8D-A0AF-80585C6F4851}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_Assembly_Two", "Part_051_Assembly_Two\Part_051_Assembly_Two.csproj", "{E1317D99-3016-4B8D-A0AF-80585C6F4851}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_051_Assembly_Three", "Part_051_Assembly_Three\Part_051_Assembly_Three.csproj", "{BCF181A5-F337-4DA1-8F64-1AF4AA399089}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_Assembly_Three", "Part_051_Assembly_Three\Part_051_Assembly_Three.csproj", "{BCF181A5-F337-4DA1-8F64-1AF4AA399089}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_056_1_Generics", "Part_056_1_Generics\Part_056_1_Generics.csproj", "{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_056_1_Generics", "Part_056_1_Generics\Part_056_1_Generics.csproj", "{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_057_Override_ToString_Method", "Part_057_Override_ToString_Method\Part_057_Override_ToString_Method.csproj", "{8E07BA03-8A72-48A0-A469-948B95C7A194}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -423,6 +425,10 @@ Global
 		{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
