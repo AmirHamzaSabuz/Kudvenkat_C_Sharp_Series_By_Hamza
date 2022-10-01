@@ -143,6 +143,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_056_1_Generics", "Part
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_057_Override_ToString_Method", "Part_057_Override_ToString_Method\Part_057_Override_ToString_Method.csproj", "{8E07BA03-8A72-48A0-A469-948B95C7A194}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_058_Override_Equals_Method", "Part_058_Override_Equals_Method\Part_058_Override_Equals_Method.csproj", "{107ED462-B101-4103-9B13-04514113B9F2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -429,6 +431,10 @@ Global
 		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8E07BA03-8A72-48A0-A469-948B95C7A194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{107ED462-B101-4103-9B13-04514113B9F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{107ED462-B101-4103-9B13-04514113B9F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{107ED462-B101-4103-9B13-04514113B9F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{107ED462-B101-4103-9B13-04514113B9F2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
