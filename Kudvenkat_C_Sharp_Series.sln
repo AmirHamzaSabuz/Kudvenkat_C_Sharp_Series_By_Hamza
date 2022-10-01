@@ -141,11 +141,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_051_Assembly_Three", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_056_1_Generics", "Part_056_1_Generics\Part_056_1_Generics.csproj", "{7FF73EA4-19DE-4A16-A0FB-D652D6EAE30D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_057_Override_ToString_Method", "Part_057_Override_ToString_Method\Part_057_Override_ToString_Method.csproj", "{8E07BA03-8A72-48A0-A469-948B95C7A194}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_057_Override_ToString_Method", "Part_057_Override_ToString_Method\Part_057_Override_ToString_Method.csproj", "{8E07BA03-8A72-48A0-A469-948B95C7A194}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_058_Override_Equals_Method", "Part_058_Override_Equals_Method\Part_058_Override_Equals_Method.csproj", "{107ED462-B101-4103-9B13-04514113B9F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_058_Override_Equals_Method", "Part_058_Override_Equals_Method\Part_058_Override_Equals_Method.csproj", "{107ED462-B101-4103-9B13-04514113B9F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_059_ToString_And_Convert_ToString", "Part_059_ToString_And_Convert_ToString\Part_059_ToString_And_Convert_ToString.csproj", "{FD8D950B-9AED-40D7-9A8C-332D16C3AF7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Part_059_ToString_And_Convert_ToString", "Part_059_ToString_And_Convert_ToString\Part_059_ToString_And_Convert_ToString.csproj", "{FD8D950B-9AED-40D7-9A8C-332D16C3AF7A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_060_String_And_StringBuilder", "Part_060_String_And_StringBuilder\Part_060_String_And_StringBuilder.csproj", "{EED32376-63D3-4CD3-BC7A-2348089EFAEF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -441,6 +443,10 @@ Global
 		{FD8D950B-9AED-40D7-9A8C-332D16C3AF7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FD8D950B-9AED-40D7-9A8C-332D16C3AF7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FD8D950B-9AED-40D7-9A8C-332D16C3AF7A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EED32376-63D3-4CD3-BC7A-2348089EFAEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EED32376-63D3-4CD3-BC7A-2348089EFAEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EED32376-63D3-4CD3-BC7A-2348089EFAEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EED32376-63D3-4CD3-BC7A-2348089EFAEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
