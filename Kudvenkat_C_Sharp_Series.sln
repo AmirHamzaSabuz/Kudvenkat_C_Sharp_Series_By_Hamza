@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_065_Indexers_Part2", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_066_Overloading_Indexers", "Part_066_Overloading_Indexers\Part_066_Overloading_Indexers.csproj", "{718619C3-4393-4BD8-A45D-605A386DE53D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_067_Optional_Parameters_Parameter_Array", "Part_067_Optional_Parameters_Parameter_Array\Part_067_Optional_Parameters_Parameter_Array.csproj", "{7E2A7534-03F0-4CCE-9724-04FB1921E662}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,10 @@ Global
 		{718619C3-4393-4BD8-A45D-605A386DE53D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{718619C3-4393-4BD8-A45D-605A386DE53D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{718619C3-4393-4BD8-A45D-605A386DE53D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E2A7534-03F0-4CCE-9724-04FB1921E662}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E2A7534-03F0-4CCE-9724-04FB1921E662}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E2A7534-03F0-4CCE-9724-04FB1921E662}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E2A7534-03F0-4CCE-9724-04FB1921E662}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
