@@ -1,5 +1,4 @@
 ﻿
-
 //ctrl + k + x
 // "Insert Snippet
 // select Visual C#
@@ -25,10 +24,10 @@ Console.WriteLine();
 //3. Select the code to surround, then click on Edit menu, select "IntelliSense" and then select the "Surround With" command.
 for (int j = 1; j <= 3; j++)
 {
-	for (int i = 1; i <= 10; i++)
-	{
-		Console.WriteLine(i);
-	}
+    for (int i = 1; i <= 10; i++)
+    {
+        Console.WriteLine(i);
+    }
     Console.WriteLine();
     Console.WriteLine();
 }
