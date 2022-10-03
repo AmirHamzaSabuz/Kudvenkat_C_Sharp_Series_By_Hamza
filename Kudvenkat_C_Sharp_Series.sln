@@ -167,6 +167,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_067_Optional_Parameter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_068_Optional_Parameters_Method_Overloading", "Part_068_Optional_Parameters_Method_Overloading\Part_068_Optional_Parameters_Method_Overloading.csproj", "{DCCDDA5D-7635-47B1-8F82-3E45D4192F47}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Part_069_Optional_Parameters_Parameter_Defaults", "Part_069_Optional_Parameters_Parameter_Defaults\Part_069_Optional_Parameters_Parameter_Defaults.csproj", "{00B70FF8-2035-448E-81BC-122764F45656}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -501,6 +503,10 @@ Global
 		{DCCDDA5D-7635-47B1-8F82-3E45D4192F47}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCCDDA5D-7635-47B1-8F82-3E45D4192F47}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCCDDA5D-7635-47B1-8F82-3E45D4192F47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00B70FF8-2035-448E-81BC-122764F45656}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00B70FF8-2035-448E-81BC-122764F45656}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00B70FF8-2035-448E-81BC-122764F45656}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00B70FF8-2035-448E-81BC-122764F45656}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
